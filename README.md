@@ -2,6 +2,7 @@
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/CyberEgo)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cyberego)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/armanhaeri/10)
 
 > 💡 **If this repository helped you learn SOLID principles, consider sponsoring to support more educational content!**
 

@@ -48,7 +48,7 @@ SOLID is an acronym for five design principles that make software designs more u
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd SOLID-CSHARP
+cd SOLID-Principals-in-CSharp
 
 # Navigate to the source directory
 cd src

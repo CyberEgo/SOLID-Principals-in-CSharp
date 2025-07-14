@@ -1,7 +1,6 @@
 # SOLID Principles in C#
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/CyberEgo)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cyberego)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cyberego)
 
 > 💡 **If this repository helped you learn SOLID principles, consider sponsoring to support more educational content!**
